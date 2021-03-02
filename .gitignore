@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# client dependencies
+/tic-tac-toe/node_modules
